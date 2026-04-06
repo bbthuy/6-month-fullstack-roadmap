@@ -9,7 +9,8 @@
  JavaScript → TypeScript, React, Next.js, API, Python (vừa đủ cho AI), SQL Server, Docker
 
 ## 📚 Mục Tiêu
-ắm cực chắc nền tảng web và hiểu rõ một stack full-stack vận hành end-to-end. Python trong lộ trình này chỉ là công cụ hỗ trợ tích hợp AI/API và tách AI microservice khi cần, không phải trọng tâm đào sâu thuật toán ML
+ắm cực chắc nền tảng web và hiểu rõ một stack full-stack vận hành end-to-end.
+Python trong lộ trình này chỉ là công cụ hỗ trợ tích hợp AI/API và tách AI microservice khi cần, không phải trọng tâm đào sâu thuật toán ML
 
 ## 🗓️ Timeline Dự Kiến
 
